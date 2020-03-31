@@ -1,0 +1,5 @@
+/target/
+nb-configuration.xml
+*.iml
+/.idea/
+*.NavData
